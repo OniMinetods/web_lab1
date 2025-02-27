@@ -1,0 +1,18 @@
+:root{
+    font-family: Arial;
+}
+.header-7{
+    font-size: 14px;
+    color: green;
+    text-decoration: underline ;
+}
+.header-8{
+    font-size: 16px;
+    color: red;
+    font-weight: bold;
+}
+.header-9{
+    font-size: 14px;
+    color: green;
+    font-style: italic;
+}
